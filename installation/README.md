@@ -1,4 +1,4 @@
-## How do I install the ROM on my device?
+## How do I install LineageOS on my device?
 
 ### 1. You should have already [unlocked the bootloader](https://xdaforums.com/t/guide-unlock-bootlader-twrp-and-root-your-huawei-mediapad-m2-8-10.3322340/) of your device.
 > [!WARNING]

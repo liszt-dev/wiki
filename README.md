@@ -4,11 +4,11 @@
 - [Click for details](https://github.com/liszt-dev/wiki/blob/master/backup/README.md)
 ---
 
-### 2. How do I build the ROM from scratch?
+### 2. How do I build LineageOS from scratch?
 - [Click for details](https://github.com/liszt-dev/wiki/blob/master/build/README.md)
 ---
 
-### 3. How do I install the ROM on my device?
+### 3. How do I install LineageOS on my device?
 - [Click for details](https://github.com/liszt-dev/wiki/blob/master/installation/README.md)
 ---
 

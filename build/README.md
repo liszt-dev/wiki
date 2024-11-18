@@ -1,4 +1,4 @@
-## How do I build the ROM from scratch?
+## How do I build LineageOS from scratch?
 
 ### 1. You need Linux to be able to build Android from source. Here, I use Ubuntu 20.04 LTS to build.
 ---
