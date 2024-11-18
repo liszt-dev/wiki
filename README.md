@@ -1,14 +1,18 @@
 ## Wiki of the liszt-dev Github organization
 
-### 1. How do I build the ROM from scratch?
+### 1. How do I backup and restore my stock firmware?
+- [Click for details](https://github.com/liszt-dev/wiki/blob/master/backup/README.md)
+---
+
+### 2. How do I build the ROM from scratch?
 - [Click for details](https://github.com/liszt-dev/wiki/blob/master/build/README.md)
 ---
 
-### 2. How do I install the ROM on my device?
+### 3. How do I install the ROM on my device?
 - [Click for details](https://github.com/liszt-dev/wiki/blob/master/installation/README.md)
 ---
 
-### 3. How do I submit a bug report? 
+### 4. How do I submit a bug report? 
 - [Click for details](https://github.com/liszt-dev/wiki/blob/master/report/README.md)
 ---
 
