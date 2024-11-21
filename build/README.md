@@ -18,7 +18,7 @@ repo sync -f --force-sync --no-clone-bundle --no-tags -j$(nproc --all)
 ```bash
 git clone https://github.com/liszt-dev/patches -b cm-13.0 patches
 git clone https://github.com/liszt-dev/android_external_stlport -b cm-13.0 external/stlport
-git clone https://github.com/liszt-dev/android_hardware_debugging -b cm-13.0 hardware/debugging
+git clone https://github.com/liszt-dev/android_hardware_huawei -b cm-13.0 hardware/huawei
 git clone https://github.com/liszt-dev/android_device_huawei_liszt -b cm-13.0 device/huawei/liszt
 git clone https://github.com/liszt-dev/android_kernel_huawei_liszt -b cm-13.0 kernel/huawei/liszt
 git clone https://github.com/liszt-dev/android_vendor_huawei_liszt -b cm-13.0 vendor/huawei/liszt
