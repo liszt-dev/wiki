@@ -38,7 +38,14 @@ export ENABLE_DEBUG=true
 > **Note:** If not needed, you can skip this step.
 ---
 
-### 7. Kick off the ROM build process.
+### 7. Bake root access into the ROM build.
+```bash
+export WITH_SU=true
+```
+> **Note:** If not wanted, you can skip this step.
+---
+
+### 8. Kick off the ROM build process.
 ```bash
 . build/envsetup.sh
 lunch lineage_liszt-userdebug
@@ -51,4 +58,4 @@ mka bacon
 > **Note:** You might have to adjust the memory assignments depending on your hardware specifications.
 ---
 
-### 8. Done! [Return home](https://github.com/liszt-dev/wiki/blob/master/README.md)
+### 9. Done! [Return home](https://github.com/liszt-dev/wiki/blob/master/README.md)
