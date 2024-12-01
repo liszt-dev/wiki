@@ -9,7 +9,4 @@ cd vendor/huawei/liszt && git status && cd ../../../ &&
 cd patches && git status && cd ../ &&
 
 # Hardware repositories
-cd hardware/huawei && git status && cd ../../ &&
-
-# External stlport library
-cd external/stlport && git status && cd ../../
+cd hardware/huawei && git status && cd ../../

@@ -12,6 +12,3 @@ git clone $ORG/patches $BRANCH patches
 
 # Hardware repositories
 git clone $ORG/android_hardware_huawei $BRANCH hardware/huawei
-
-# External stlport library
-git clone $ORG/android_external_stlport $BRANCH external/stlport
