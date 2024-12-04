@@ -11,7 +11,7 @@
 **2.3.** Attach relevant screenshots or log files (e.g. logcat or dmesg), if it's possible.
 ```bash
 adb logcat > logcat.txt
-adb shell dmesg > /sdcard/dmesg.txt
+adb shell dmesg > dmesg.txt
 ```
 **2.4.** Specify the version of LineageOS you are running and any modifications you have made.
 ######

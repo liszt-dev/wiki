@@ -31,11 +31,13 @@ fastboot reboot
 ---
 
 ### 3. Install LineageOS on your device.
-**3.1.** Ensure your device is charged enough and power it off completly.
+**3.1.** Download the latest build on LineageOS from [here](https://github.com/liszt-dev/releases/releases) and move it to your sdcard.
 ######
-**3.2.** Press **Volume Up** and the **Power Button** simultaneously to boot into TWRP.
+**3.2.** Ensure your device is charged enough and power it off completly.
 ######
-**3.3.** Choose **Wipe** and select the following partitions:
+**3.3.** Press **Volume Up** and the **Power Button** simultaneously to boot into TWRP.
+######
+**3.4.** Choose **Wipe** and select the following partitions:
 ```bash
 Dalvik / ART cache
 Cache
@@ -44,11 +46,11 @@ Internal Storage
 System
 ```
 
-**3.4.** Select _Install_, locate to the LineageOS zip archive and swipe to install.
+**3.5.** Select _Install_, locate the LineageOS zip archive and swipe to install.
 ######
-**3.5.** Optionally, you can proceed with installing [OpenGapps](https://opengapps.org/) afterwards.
+**3.6.** Optionally, you can proceed with installing [OpenGapps](https://opengapps.org/) afterwards.
 ######
-**3.6.** If everything was successfull, you can reboot your device.
+**3.7.** If everything was successfull, you can reboot your device.
 > **Note:** The first boot might take a few minutes, so don't freak out.
 ---
 
