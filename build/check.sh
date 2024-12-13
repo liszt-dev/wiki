@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Device-specific repositories
-cd device/huawei/liszt && git status && cd ../../../ &&
+cd ../../device/huawei/liszt && git status && cd ../../../ &&
 cd kernel/huawei/liszt && git status && cd ../../../ &&
 cd vendor/huawei/liszt && git status && cd ../../../ &&
 
