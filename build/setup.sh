@@ -1,6 +1,6 @@
 #!/bin/bash
 ORG="https://github.com/liszt-dev"
-BRANCH="-b cm-14.1"
+BRANCH="-b lineage-15.1"
 
 # Device-specific repositories
 git clone $ORG/android_device_huawei_liszt $BRANCH ../../device/huawei/liszt

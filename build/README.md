@@ -8,19 +8,19 @@
 
 ### 3. Download the LineageOS source code by executing the following commands in your terminal.
 ```bash
-mkdir los14 && cd los14
-repo init -u https://github.com/LineageOS/android.git -b cm-14.1
+mkdir los15 && cd los15
+repo init -u https://github.com/LineageOS/android.git -b lineage-15.1
 repo sync -f --force-sync --no-clone-bundle --no-tags -j$(nproc --all)
 ```
 ---
 
 ### 4. Set up the device-specific repositories.
 ```bash
-git clone https://github.com/liszt-dev/patches -b cm-14.1 patches
-git clone https://github.com/liszt-dev/android_hardware_debugging -b cm-14.1 hardware/debugging
-git clone https://github.com/liszt-dev/android_device_huawei_liszt -b cm-14.1 device/huawei/liszt
-git clone https://github.com/liszt-dev/android_kernel_huawei_liszt -b cm-14.1 kernel/huawei/liszt
-git clone https://github.com/liszt-dev/android_vendor_huawei_liszt -b cm-14.1 vendor/huawei/liszt
+git clone https://github.com/liszt-dev/patches -b lineage-15.1 patches
+git clone https://github.com/liszt-dev/android_hardware_debugging -b lineage-15.1 hardware/debugging
+git clone https://github.com/liszt-dev/android_device_huawei_liszt -b lineage-15.1 device/huawei/liszt
+git clone https://github.com/liszt-dev/android_kernel_huawei_liszt -b lineage-15.1 kernel/huawei/liszt
+git clone https://github.com/liszt-dev/android_vendor_huawei_liszt -b lineage-15.1 vendor/huawei/liszt
 ```
 ---
 
